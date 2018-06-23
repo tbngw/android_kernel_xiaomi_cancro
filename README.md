@@ -1,0 +1,2 @@
+# android_device_xiaomi_cancro
+# android_kernel_xiaomi_cancro
